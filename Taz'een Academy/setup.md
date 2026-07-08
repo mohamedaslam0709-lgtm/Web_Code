@@ -15,3 +15,4 @@ cd Taz'een-Academy
 - **Note:**
 **If using VS Code Live Server extension**
 - **Right-click index.html -> Open with Live Server**
+- You should upload an image named ```founder-img.jpeg``` to Image folder. The file is removed for privacy reasons.
